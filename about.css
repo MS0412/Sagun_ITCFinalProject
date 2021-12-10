@@ -1,0 +1,38 @@
+body {
+  background-image:url(images/aboutbg.gif);
+  background-size: cover;
+  background-position:center;
+  background-attachment:fixed;
+}
+.header{
+	padding:15px 170px;
+	text-align:center;
+	background:#76B1AB;
+	color:white;
+	fontsize:25px;
+	opacity:1;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #B7E9F7;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family:Helvetica;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 160px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:white;
+}
